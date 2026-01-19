@@ -3,6 +3,9 @@
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/saade/filament-fullcalendar.svg?style=flat-square)](https://packagist.org/packages/saade/filament-fullcalendar)
 [![Total Downloads](https://img.shields.io/packagist/dt/saade/filament-fullcalendar.svg?style=flat-square)](https://packagist.org/packages/saade/filament-fullcalendar)
 
+> **⚠️ Filament v5 Compatibility**: This version supports Filament v5.x and Laravel 11+/12+. For Filament v4, please use the previous version.
+> See [UPGRADE_V5.md](UPGRADE_V5.md) for migration details.
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/saade/filament-fullcalendar/3.x/art/cover.png" alt="Filament FullCalendar" style="width: 100%; max-width: 800px; border-radius: 10px" />
 </p>
